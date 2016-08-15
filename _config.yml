@@ -1,0 +1,14 @@
+layout_spectrum: 0.8142898266669363
+typography_spectrum: 0.5992738448549062
+color:
+  brandStrength: 0.12850347557105124
+  lightness: 0.9164423355832696
+  saturation: 0.22520302701741457
+  rhythmicContrast: 0.41357238846831024
+  brandColors:
+    - '#00585F'
+    - '#009393'
+    - '#FFFCC4'
+    - '#F0EDBB'
+    - '#FF3800'
+name: synthetic randomness
